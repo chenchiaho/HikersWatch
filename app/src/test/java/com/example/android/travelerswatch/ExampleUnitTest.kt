@@ -1,4 +1,4 @@
-package com.example.android.hikerswatch
+package com.example.android.travelerswatch
 
 import org.junit.Test
 

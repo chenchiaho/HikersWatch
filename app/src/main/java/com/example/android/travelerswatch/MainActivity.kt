@@ -1,4 +1,4 @@
-package com.example.android.hikerswatch
+package com.example.android.travelerswatch
 
 import android.content.Context
 import android.content.pm.PackageManager
@@ -10,7 +10,6 @@ import android.os.Bundle
 import android.util.Log
 import androidx.core.app.ActivityCompat
 import androidx.core.content.ContextCompat
-import java.util.jar.Manifest
 
 class MainActivity : AppCompatActivity() {
 

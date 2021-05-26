@@ -1,4 +1,4 @@
-package com.example.android.hikerswatch
+package com.example.android.travelerswatch
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4
