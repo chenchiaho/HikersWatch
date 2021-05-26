@@ -39,7 +39,7 @@
         android:layout_marginTop="40dp"
         android:text="Lattitude: 40.00"
         android:textColor="@color/white"
-        android:textSize="20sp"
+        android:textSize="18sp"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/title" />
 
@@ -51,7 +51,7 @@
         android:layout_marginTop="16dp"
         android:text="Longitude: 40.00"
         android:textColor="@color/white"
-        android:textSize="20sp"
+        android:textSize="18sp"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/lat" />
 
@@ -63,7 +63,7 @@
         android:layout_marginTop="16dp"
         android:text="Altitude: 40"
         android:textColor="@color/white"
-        android:textSize="20sp"
+        android:textSize="18sp"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/lon" />
 
@@ -75,7 +75,7 @@
         android:layout_marginTop="16dp"
         android:text="Accuracy: 40"
         android:textColor="@color/white"
-        android:textSize="20sp"
+        android:textSize="18sp"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/alt" />
 
@@ -87,7 +87,7 @@
         android:layout_marginTop="16dp"
         android:text="Address:\n40\nsomewhere, Kansas"
         android:textColor="@color/white"
-        android:textSize="20sp"
+        android:textSize="18sp"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toBottomOf="@+id/accu" />
 
